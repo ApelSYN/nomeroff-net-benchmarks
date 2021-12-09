@@ -1,0 +1,4 @@
+numpy>=1.16.*
+opencv_python
+pillow>=8.0.1
+git+git://github.com/lilohuang/PyTurboJPEG.git
